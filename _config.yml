@@ -1,3 +1,6 @@
+title: McFaolan's Github Page
+descriptiion: This is my personal github page. Created with the help of Github for Dummies, while familiarizing myself with Github.com. Additionally to learning how to use Github, I am also learning to program in Python.
+github_username: McFaolan82
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
